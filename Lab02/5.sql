@@ -1,0 +1,2 @@
+DELETE FROM STUDENT
+WHERE stu_name='¤­ºÖ'
