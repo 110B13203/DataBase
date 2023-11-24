@@ -1,3 +1,3 @@
 UPDATE Employee
-SET Em_dop='¥Í²£³¡'
-WHERE Em_name='¤»¦X'
+SET Em_dop='ç”Ÿç”¢éƒ¨'
+WHERE Em_name='å…­åˆ'
