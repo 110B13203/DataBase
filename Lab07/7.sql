@@ -31,7 +31,7 @@ PRIMARY KEY(Class_id),
 FOREIGN KEY(Teacher_id) REFERENCES Teacher(Teacher_id)
 ON UPDATE CASCADE ON DELETE CASCADE,
 )
-CREATE TABLE Scoree--3
+CREATE TABLE Score--3
 (
 Stu_Id CHAR(5),
 Class_Id CHAR(5),
