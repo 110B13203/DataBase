@@ -1,0 +1,2 @@
+SELECT P_id ,AVG(Quan) AS 產品平均數量 FROM Sales GROUP BY P_id HAVING AVG(QUAN)>=70
+SELECT S_id ,COUNT(*) AS 銷售產品種類 FROM Sales GROUP BY S_id HAVING COUNT(*)>=2
