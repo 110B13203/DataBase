@@ -1,0 +1,3 @@
+SELECT * FROM Sales ORDER BY Quan 
+SELECT * FROM Sales ORDER BY Quan Desc
+SELECT * FROM Sales ORDER BY S_ID Asc,Quan Asc
