@@ -1,2 +1,2 @@
 SELECT * FROM Employee
-WHERE Em_dep LIKE '¥Í%'
+WHERE Em_dep LIKE 'ç”Ÿ%'
