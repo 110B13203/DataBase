@@ -6,8 +6,8 @@ P_id CHAR(5),
 PRIMARY KEY(Em_id)
 )
 INSERT INTO Employee VALUES
-('S0001','¤@¤ß','P0001'),
-('S0002','¤G¸t','P0002')
+('S0001','ä¸€å¿ƒ','P0001'),
+('S0002','äºŒè–','P0002')
 CREATE TABLE Sales
 (
 P_id CHAR(5),
@@ -16,6 +16,6 @@ Quan INT,
 PRIMARY KEY(P_id),
 )
 INSERT INTO Sales VALUES
-('P0001','µ§¹q',3),
-('P0002','·Æ¹«',3),
-('P0003','¤â¾÷',2)
+('P0001','ç­†é›»',3),
+('P0002','æ»‘é¼ ',3),
+('P0003','æ‰‹æ©Ÿ',2)
