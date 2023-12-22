@@ -1,2 +1,2 @@
 INSERT INTO Em_view
-VALUES('S0006','§ª¶X','D001')
+VALUES('S0006','ÂÖ≠Âêà','D001')
